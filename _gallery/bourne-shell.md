@@ -9,11 +9,11 @@ caption: 'Το κέλυφος Bourne (sh) είναι ένα κέλυφος ή έ
 licence_url: 'https://upload.wikimedia.org/wikipedia/commons/b/bf/Version_7_UNIX_SIMH_PDP11_Kernels_Shell.png'
 licence_text: 203.51.194.232,wikipedia
 categories:
-  -definition
+  - definition
 tags:
-  -shell
-  -StephenBourne
-  -commandline
-  -Unix
+  - shell
+  - StephenBourne
+  - ommandline
+  - Unix
 ---
   
