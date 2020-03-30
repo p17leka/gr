@@ -13,7 +13,7 @@ categories:
 tags:
   - shell
   - StephenBourne
-  - ommandline
+  - commandline
   - Unix
 ---
   
