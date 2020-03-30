@@ -9,4 +9,8 @@ licence_url: 'https://i.redd.it/ut7zowm3f4tz.png'
 licence_text: u/whtswrongwithupeople
 categories:
   - definition
+tags:
+  -opensource
+  -software
+  -os
 ---
