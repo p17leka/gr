@@ -12,8 +12,8 @@ categories:
   -definition
 tags:
   -shell
-  -Stephen Bourne
-  -command line
+  -StephenBourne
+  -commandline
   -Unix
 ---
   
