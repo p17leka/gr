@@ -10,7 +10,7 @@ licence_text: u/whtswrongwithupeople
 categories:
   - definition
 tags:
-  -opensource
-  -software
-  -os
+  - opensource
+  - software
+  - os
 ---
