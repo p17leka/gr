@@ -8,8 +8,12 @@ categories:
   - biography
   - definition
 tags: 
+  - Ivan Sutherland
   - Alan Kay
   - Gordon W. Romney
   - Sketchpad
   - ComputerGraphics
+gallery:
+  - image_url: /images/ivan-sutherland.png
+    caption: "Ο Ιβάν Σάδερλαντ ειναι υπευθυνος για την εφεύρεση του Sketchpad, πρώιμου προκατόχου του είδους γραφικών διεπαφής χρήστη που έχει γίνει πανταχού παρόν στους προσωπικούς υπολογιστές.
 ---  
