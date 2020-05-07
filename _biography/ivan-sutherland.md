@@ -8,17 +8,18 @@ categories:
   - biography
   - definition
 tags:
+  - Computer Science
   - Ivan Sutherland
   - Alan Kay
   - Frank Crow
   - Sketchpad
-  - ComputerGraphics
+  - Computer Graphics
 gallery:
   - image_url: /images/ivan-sutherland.png
     caption: "Ο Ιβάν Σάδερλαντ ειναι υπευθυνος για την εφεύρεση του Sketchpad, πρώιμου προκατόχου του είδους γραφικών διεπαφής χρήστη που έχει γίνει πανταχού παρόν στους προσωπικούς υπολογιστές."
   - image_url: /images/Sketchpad.jpg
     caption: "Το Sketchpad θεωρείται ο πρόγονος των σύγχρονων προγραμμάτων με τη βοήθεια υπολογιστή (CAD), καθώς και μια σημαντική ανακάλυψη στην ανάπτυξη των γραφικών υπολογιστών γενικά."
-  - image_url: /images/Computer-graphics-thumb.jpg
+  - image_url: /images/computer-graphics.jpg
     caption: "Τα γραφικά υπολογιστών είναι κλάδος της επιστήμης των υπολογιστών που ασχολείται με τη δημιουργία εικόνων με τη βοήθεια υπολογιστών."
 ---
 
