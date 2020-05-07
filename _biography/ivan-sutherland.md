@@ -10,7 +10,7 @@ categories:
 tags: 
   - Ivan Sutherland
   - Alan Kay
-  - Gordon W. Romney
+  - Frank Crow
   - Sketchpad
   - ComputerGraphics
 gallery:
