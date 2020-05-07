@@ -19,6 +19,3 @@ gallery:
 ---  
 
 
-{% include bio-sutherland.md %}
-
-{% include slides.html caption="Εικόνες για την βιογραφία του Ivan Sutherland" %}
