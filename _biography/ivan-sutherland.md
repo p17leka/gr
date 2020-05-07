@@ -17,3 +17,8 @@ gallery:
   - image_url: /images/ivan-sutherland.png
     caption: "Ο Ιβάν Σάδερλαντ ειναι υπευθυνος για την εφεύρεση του Sketchpad, πρώιμου προκατόχου του είδους γραφικών διεπαφής χρήστη που έχει γίνει πανταχού παρόν στους προσωπικούς υπολογιστές.
 ---  
+
+
+{% include bio-sutherland.md %}
+
+{% include slides.html caption="Εικόνες για την βιογραφία του Ivan Sutherland" %}
