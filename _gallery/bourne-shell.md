@@ -12,8 +12,8 @@ categories:
   - definition
 tags:
   - shell
-  - StephenBourne
-  - commandline
+  - Stephen Bourne
+  - command line
   - Unix
 ---
   
