@@ -11,8 +11,10 @@ tags:
   - Computer Science
   - Ivan Sutherland
   - Alan Kay
-  - Frank Crow
+  - Gordon W.Romney
   - Sketchpad
+  - Sword of Damocles
+  - Virtual Reality
   - Computer Graphics
 gallery:
   - image_url: /images/ivan-sutherland.png
