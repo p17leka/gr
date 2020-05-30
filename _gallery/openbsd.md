@@ -13,4 +13,7 @@ tags:
   - opensource
   - software
   - os
+  - BSD
+  - Unix
+  - Theo de Raadt
 ---
